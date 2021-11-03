@@ -1,4 +1,4 @@
-# [Lucid Programming Competition](https://lucid.co/programming-competition) ![Language](https://img.shields.io/badge/language-c++-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Progress](https://img.shields.io/badge/progress-8%20%2F%2013-ff69b4.svg) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=biqar.lucid.programming.competition)
+# [Lucid Programming Competition](https://lucid.co/programming-competition)</br>![Language](https://img.shields.io/badge/language-c++-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Progress](https://img.shields.io/badge/progress-8%20%2F%2013-ff69b4.svg) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=biqar.lucid.programming.competition)
 
 My solutions of  [Lucid Programming Competition](https://lucid.co/programming-competition) problems. All the solution code has been written in $C++$. The goal of this repository is not only share the solution code, but also sharing the my ideas and approaches towards the solution.
 
